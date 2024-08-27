@@ -1,0 +1,12 @@
+.abcd{
+    color: red;
+}
+body{
+    background-color: rgba(0, 255, 255, 0.034);
+    background-image:url(https://img.freepik.com/free-vector/blue-futuristic-waves-background-vector-with-computer-code-technology_53876-110867.jpg);
+    background-size: 100%;
+    
+}
+#outlined-basic{
+    color: black;
+}
