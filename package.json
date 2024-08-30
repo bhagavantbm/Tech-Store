@@ -4,20 +4,8 @@
   "private": true,
   "homepage": "https://bhagavantbm.github.io/Tech-Store/",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  
-    "scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-  
-
-
   },
   "dependencies": {
     "@emotion/react": "^11.13.3",
@@ -39,7 +27,7 @@
     "react-bootstrap": "^2.10.4",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "react-swipeable-views-utils": "^0.14.0",
     "styled-components": "^6.1.12",
     "typescript": "^4.9.5",
