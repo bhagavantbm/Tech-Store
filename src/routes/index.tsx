@@ -26,7 +26,7 @@ let allpages={
     
     children:[
       {
-         path:'/',
+         path:'/Tech-Store',
          element:<Home/>
 
       }
