@@ -9,9 +9,9 @@ import Allroutes from "./routes"
 
 export const App=()=>{
   return<div>
-  
+
 <Mynavbar />
-<Home/>
+
   <Allroutes/>
 
  

@@ -8,7 +8,7 @@ const url2 = 'https://i02.appmifile.com/794_operator_sg/18/03/2024/7f001946aad3d
 export const Carosal = () => {
   return (
     
-    <Carousel style={{ height: '500px',marginTop:'20px' }}>
+    <Carousel style={{ height: '500px',marginTop:'10px' }}>
 
       <Carousel.Item>
         <img

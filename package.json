@@ -2,6 +2,23 @@
   "name": "zomato",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bhagavantbm.github.io/Tech-Store/",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  
+    "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+  
+
+
+  },
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
@@ -28,12 +45,6 @@
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -54,6 +65,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.3.4",
-    "@types/react-swipeable-views": "^0.13.5"
+    "@types/react-swipeable-views": "^0.13.5",
+    "gh-pages": "^6.1.1"
   }
 }

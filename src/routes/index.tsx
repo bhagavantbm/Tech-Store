@@ -13,6 +13,7 @@ import { Mobile } from "../navbar/mibile/Mobile";
 import { Redmi } from "../navbar/mibile/Redmi";
 import { Samsung } from "../navbar/mibile/samsung/samsung";
 import { Oneplus } from "../navbar/mibile/oneplus/Oneplus";
+import { Iphone } from "../navbar/mibile/iphone/Iphone";
 
 
 
@@ -22,7 +23,14 @@ import { Oneplus } from "../navbar/mibile/oneplus/Oneplus";
 let allpages={
     path:'/',
     element:<><Outlet/></>,
+    
     children:[
+      {
+         path:'/',
+         element:<Home/>
+
+      }
+      ,
        {
             path:'home',
             element:<Home/>
@@ -67,6 +75,9 @@ let allpages={
         path:'oneplus',
         element:<Oneplus/>
         
+     },{
+      path:'iphone',
+      element:<Iphone/>
      }
 
     

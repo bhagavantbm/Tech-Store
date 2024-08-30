@@ -31,17 +31,20 @@ const url9='https://www.oneplus.in/oneplus-nord-ce4-lite-5g?sku=5011110200'
 const url10='https://www.oneplus.in/oneplus-nord-4?sku=5011110280'
 export const Home=()=>{
   return<>
+  <center>
+  <h1 style={{color:'tomato',letterSpacing:'40px',fontWeight:'bold',fontFamily:'cursive'}}>TECH-STORE</h1>
+  </center>
 
   <Carosal/>
  
 <Grid
   container
-  direction="column"
+  direction="row"
   justifyContent="space-evenly"
   alignItems="flex-start"
 >
 <br />
-<Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px',marginTop:'90px' }}>
+<Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px',marginTop:'120px' }}>
         <CardMedia
           component="img"
           alt="green iguana"
@@ -75,7 +78,7 @@ export const Home=()=>{
         {/* image-----------------------------------------------------------------------------------------------------2 */}
       
     
-      <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px',marginTop:'20px' }}>
+      <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px',marginTop:'120px' }}>
         <CardMedia
           component="img"
           alt="green iguana"
@@ -109,7 +112,7 @@ export const Home=()=>{
    
       {/* image-------------------------------------------------------------------------------------------------3 */}
       
-      <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px',marginTop:'20px' }}>
+      <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px',marginTop:'120px' }}>
         <CardMedia
           component="img"
           alt="green iguana"
@@ -143,7 +146,7 @@ export const Home=()=>{
       </Card>
 
         {/* image ------------------------------------------------------------------------------------------------------------4 */}
-        <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px',marginTop:'20px' }}>
+        <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px',marginTop:'120px' }}>
         <CardMedia
           component="img"
           alt="green iguana"
@@ -208,7 +211,7 @@ export const Home=()=>{
         </Card>
 {/* mobile-------------------------------********************************************************----------------------------mobile */}
    {/* image---------------------------------------------------------------------------------------------------1 */}
-   <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px' }}>
+   <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px',marginTop:'20px' }}>
             <CardMedia
               component="img"
               alt="green iguana"
@@ -217,7 +220,7 @@ export const Home=()=>{
               image={img6} // Use imported image reference
            
             />  
-            <CardContent style={{backgroundColor:'white'}}>
+            <CardContent style={{backgroundColor:'orange'}}>
               <Typography gutterBottom  component="div" >
               -4%  ₹19,999
               <br />
@@ -233,7 +236,7 @@ export const Home=()=>{
 
 </Typography>
             </CardContent >
-            <CardActions style={{backgroundColor:'white'}}>
+            <CardActions style={{backgroundColor:'orange'}}>
                 <Link to ={url}>
               <Button size="small" style={{marginTop:'-20px',color:'blue'}}>Share</Button></Link>
               <Link to ='/Mycart'>
@@ -245,7 +248,7 @@ export const Home=()=>{
             </CardActions>
             </Card>
              {/* image---------------------------------------------------------------------------------------------------2*/}
-             <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px' }}>
+             <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px',marginTop:'20px' }}>
             <CardMedia
               component="img"
               alt="green iguana"
@@ -282,7 +285,7 @@ export const Home=()=>{
             </CardActions>
             </Card>
              {/* image---------------------------------------------------------------------------------------------------3*/}
-             <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px' }}>
+             <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px',marginTop:'20px' }}>
             <CardMedia
               component="img"
               alt="green iguana"
@@ -319,7 +322,7 @@ export const Home=()=>{
             </CardActions>
             </Card> 
                          {/* image---------------------------------------------------------------------------------------------------4*/}
-                         <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px' }}>
+                         <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px',marginTop:'20px' }}>
             <CardMedia
               component="img"
               alt="green iguana"
