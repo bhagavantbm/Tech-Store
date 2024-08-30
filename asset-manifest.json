@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tech-Store/static/css/main.dcd58571.css",
-    "main.js": "/Tech-Store/static/js/main.afb4126f.js",
+    "main.js": "/Tech-Store/static/js/main.ee9d8fb9.js",
     "static/js/453.b8c46a1e.chunk.js": "/Tech-Store/static/js/453.b8c46a1e.chunk.js",
     "static/media/9.png": "/Tech-Store/static/media/9.582bd54764781c30fe6a.png",
     "static/media/2.png": "/Tech-Store/static/media/2.e7154750609bc14bf30e.png",
@@ -11,22 +11,22 @@
     "static/media/4.webp": "/Tech-Store/static/media/4.1f7263582067442ee132.webp",
     "static/media/10.jpg": "/Tech-Store/static/media/10.d0a8a73f1e81e5f70efa.jpg",
     "static/media/5.png": "/Tech-Store/static/media/5.33ed994f781385ac02e3.png",
-    "static/media/6.webp": "/Tech-Store/static/media/6.de8242bac3aee8eb1bff.webp",
+    "static/media/6.webp": "/Tech-Store/static/media/6.48e14074ba6437cb3f1f.webp",
     "static/media/16.avif": "/Tech-Store/static/media/16.1d7407c6aeb5b8047616.avif",
     "static/media/12.jpg": "/Tech-Store/static/media/12.6af5ee58ea447628d9f2.jpg",
-    "static/media/5.webp": "/Tech-Store/static/media/5.625c36cc8b6f6a67985b.webp",
+    "static/media/5.webp": "/Tech-Store/static/media/5.e4c4699120a394e6edc9.webp",
     "static/media/15.avif": "/Tech-Store/static/media/15.b68a0e70f4c85d1793bd.avif",
     "static/media/5.jpg": "/Tech-Store/static/media/5.dfcf6cd3e71d73ed4ceb.jpg",
-    "static/media/2.jpg": "/Tech-Store/static/media/2.12194bf242b6d71baee4.jpg",
-    "static/media/7.webp": "/Tech-Store/static/media/7.aca748abdbecb9952d86.webp",
+    "static/media/2.jpg": "/Tech-Store/static/media/2.55c6ed25094fee200e68.jpg",
+    "static/media/7.webp": "/Tech-Store/static/media/7.a7838c13cc5df6974301.webp",
     "static/media/4.jpg": "/Tech-Store/static/media/4.0b33152d4893caeae9d9.jpg",
     "static/media/17.jpg": "/Tech-Store/static/media/17.6d70f4dfe111ed64f60c.jpg",
     "static/media/14.jpg": "/Tech-Store/static/media/14.a7448137a9b4badf70f4.jpg",
     "static/media/7.jpg": "/Tech-Store/static/media/7.13c618b1ff7db086425e.jpg",
     "static/media/4.avif": "/Tech-Store/static/media/4.7a12e1e58f7ef3fd415a.avif",
+    "static/media/1.jpg": "/Tech-Store/static/media/1.2788d301c900d34a4116.jpg",
     "static/media/11.webp": "/Tech-Store/static/media/11.ce1570aaf45265ea3209.webp",
     "static/media/8.webp": "/Tech-Store/static/media/8.2e6fb8d07522b4e7a6d9.webp",
-    "static/media/1.jpg": "/Tech-Store/static/media/1.2788d301c900d34a4116.jpg",
     "static/media/16.jpg": "/Tech-Store/static/media/16.4cec083345aa8adb0544.jpg",
     "static/media/14.avif": "/Tech-Store/static/media/14.285750c8cf7515baa40d.avif",
     "static/media/12.webp": "/Tech-Store/static/media/12.2fd43ee721b852d2a78f.webp",
@@ -39,11 +39,11 @@
     "static/media/2.webp": "/Tech-Store/static/media/2.998703785657b764a6b7.webp",
     "index.html": "/Tech-Store/index.html",
     "main.dcd58571.css.map": "/Tech-Store/static/css/main.dcd58571.css.map",
-    "main.afb4126f.js.map": "/Tech-Store/static/js/main.afb4126f.js.map",
+    "main.ee9d8fb9.js.map": "/Tech-Store/static/js/main.ee9d8fb9.js.map",
     "453.b8c46a1e.chunk.js.map": "/Tech-Store/static/js/453.b8c46a1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcd58571.css",
-    "static/js/main.afb4126f.js"
+    "static/js/main.ee9d8fb9.js"
   ]
 }
