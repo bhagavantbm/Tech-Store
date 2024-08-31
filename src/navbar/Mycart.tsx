@@ -26,7 +26,7 @@ const sampleItems: Item[] = [
 
 
  export const Mycart = () => {
-    const url='https://play.google.com/store/apps/details?id=com.phonepe.app&hl=en_IN&gl=US&shortlink=2kk1w03o&c=consumer_app_icon&pid=PPWeb_app_download_page&af_xp=custom&source_caller=ui'
+    const url='https://www.phonepe.com/pay'
    
 
   const [cart, setCart] = React.useState<CartItem[]>([]);
