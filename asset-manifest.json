@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Tech-Store/static/css/main.dcd58571.css",
+    "main.css": "/Tech-Store/static/css/main.e7c985c1.css",
     "main.js": "/Tech-Store/static/js/main.a21fb081.js",
     "static/js/453.b8c46a1e.chunk.js": "/Tech-Store/static/js/453.b8c46a1e.chunk.js",
     "static/media/9.png": "/Tech-Store/static/media/9.582bd54764781c30fe6a.png",
@@ -38,12 +38,12 @@
     "static/media/15.webp": "/Tech-Store/static/media/15.f92f037b86601b444be3.webp",
     "static/media/2.webp": "/Tech-Store/static/media/2.998703785657b764a6b7.webp",
     "index.html": "/Tech-Store/index.html",
-    "main.dcd58571.css.map": "/Tech-Store/static/css/main.dcd58571.css.map",
+    "main.e7c985c1.css.map": "/Tech-Store/static/css/main.e7c985c1.css.map",
     "main.a21fb081.js.map": "/Tech-Store/static/js/main.a21fb081.js.map",
     "453.b8c46a1e.chunk.js.map": "/Tech-Store/static/js/453.b8c46a1e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcd58571.css",
+    "static/css/main.e7c985c1.css",
     "static/js/main.a21fb081.js"
   ]
 }
