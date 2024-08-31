@@ -1,26 +1,4 @@
-.Container{
-    background: hsla(120, 93%, 84%, 1);
 
-background: linear-gradient(90deg, hsla(120, 93%, 84%, 1) 0%, hsla(185, 90%, 51%, 1) 100%);
-
-background: -moz-linear-gradient(90deg, hsla(120, 93%, 84%, 1) 0%, hsla(185, 90%, 51%, 1) 100%);
-
-background: -webkit-linear-gradient(90deg, hsla(120, 93%, 84%, 1) 0%, hsla(185, 90%, 51%, 1) 100%);
-
-filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#AFFCAF", endColorstr="#12DFF3", GradientType=1 );
-}
-.Avatar{
-    color: black;
-}
-.abcd{
-    background-color: red;
-}
-.Mynavbar{
-    color: red;
-}
-.body{
-    background-color:rgb(48, 229, 91);
-}
 .card{
     display: flex;
     align-items: center;
