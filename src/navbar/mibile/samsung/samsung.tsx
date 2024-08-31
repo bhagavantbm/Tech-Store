@@ -24,7 +24,7 @@ import { Link } from "react-router-dom";
 
 export const Samsung = () => {
     
-    const url='https://web.whatsapp.com/'
+    const url='https://api.whatsapp.com/send?text=Check%20out%20this%20amazing%20laptop%20here:%20https://www.amazon.in/Lenovo-IdeaPad-i7-13620H-38-1cm-83EM008GIN/dp/B0D6NCVQZQ'
     const url1='https://www.samsung.com/in/smartphones/galaxy-s24-ultra/'
     const url2='https://www.samsung.com/in/smartphones/galaxy-s24/'
     const url3='https://www.samsung.com/in/smartphones/galaxy-s23/'
@@ -53,6 +53,7 @@ const url16='https://www.samsung.com/in/smartphones/galaxy-a/galaxy-a14-5g-green
       direction="row"
       justifyContent="space-between"
       alignItems="center"
+      style={{display:'flex',alignItems:'center'}}
     >
         <br />
         {/* image---------------------------------------------------------------------------------------------------1 */}

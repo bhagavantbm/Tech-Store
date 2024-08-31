@@ -10,7 +10,7 @@ import img6 from "./images/6.webp"
 import img7 from "./images/7.webp"
 import img8 from "./images/8.webp"
 
-const url='https://web.whatsapp.com/'
+const url='https://api.whatsapp.com/send?text=Check%20out%20this%20amazing%20laptop%20here:%20https://www.amazon.in/Lenovo-IdeaPad-i7-13620H-38-1cm-83EM008GIN/dp/B0D6NCVQZQ'
 export const Iphone=()=>{
    
     return (
@@ -22,6 +22,7 @@ export const Iphone=()=>{
       direction="row"
       justifyContent="space-between"
       alignItems="center"
+      style={{display:'flex',alignItems:'center'}}
     >
        
         {/* image---------------------------------------------------------------------------------------------------1 */}

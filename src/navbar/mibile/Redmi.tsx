@@ -21,7 +21,7 @@ import { Link } from "react-router-dom";
 
 export const Redmi = () => {
     
-    const url='https://web.whatsapp.com/'
+    const url='https://api.whatsapp.com/send?text=Check%20out%20this%20amazing%20laptop%20here:%20https://www.amazon.in/Lenovo-IdeaPad-i7-13620H-38-1cm-83EM008GIN/dp/B0D6NCVQZQ'
     const url1='https://www.amazon.in/Stardust-Storage-Powered-Mediatek-Display/dp/B0CMTTRN8M/ref=sr_1_6?crid=88A16IOCEEML&dib=eyJ2IjoiMSJ9.0LnKyCxtd5G1hdwYnt5aSq9fTW6gO6OA6Ktt649Fx46cYanzEFFn3SFDpB9jw42DZePCBSglQXFuEAKgB8G0eaJrtvyK0DAdJRX7Wp9XalXJ_8pwABElaUNnRDWrLQp4-mHxrzy-qVaWfBSA-u_i9njGT3kHQUiKKh1Zp6VzOT_kJbeiL_ur44dS5IAypGlXb5pBJy4RHzRm_SAJpSUz2SnmVivWkoG_hQfcuiWsY90._ZpPlzIns5V4U0C-n9Hq3UgV27yU_tNftKahKBGqSz4&dib_tag=se&keywords=redmi&qid=1724648114&sprefix=redmi%2Caps%2C317&sr=8-6&th=1'
     const url2='https://www.amazon.in/Redmi-Note-Cosmic-Purple-Storage/dp/B07X3P1N2V/ref=sr_1_2?crid=1Z879M8IFIISZ&dib=eyJ2IjoiMSJ9.2u2QImh5pzl9rcqOWBe1JcSMsDuiR6E_rNv8kcXSXNHJKbsneG6TcGz_5SZpcQUGWAhHUv6zMhmxXAVSbrNQGce2M_LYO5GP5OIrHC3dOdMKs3J8p0ZzDENN892gv9SLWeYStyaq3bAYMAL3VYM75j2cS2IKqYWfCG3zpJfGiHHjhxELRMc4xI9VkNLHj3w-WIc9Yp4tKZ2V3yhJYc0mAZgEkLi4g7cnQMx2D3a4JV4.011N96RWwC2j55wqAidOxpAQqD58-5p5bKeZq2AGnLI&dib_tag=se&keywords=redmi+note+8&qid=1724649521&sprefix=redmi+note+8%2Caps%2C257&sr=8-2'
     const url3='https://www.amazon.in/Redmi-Storage-Bezel-Less-Slimmest-Pro-Grade/dp/B0CQP38JRG/ref=sr_1_13?crid=88A16IOCEEML&dib=eyJ2IjoiMSJ9.d_24loqvHazEdxgnuYpyjavWk9RTcdbEdChkR3mzP2KuIGROHK77rXTcUhGyxgfr1SxCigFi6DJyJAaaqiVAshwVL6YtfNwYBMzJo7dwKEybCphpf7bfIhNlEjn-2zoYpVmMofP_Eqm-wki4VKF_t_OhgnphwmZp37nZy7BYm72h35jQGEwJHoGuUFV41EylaZBJED6oUq65ebhxYsOLVdB5y7sXbnIEc1bGlY0fEx8QJC6OPSz5K37AKd4oIKEtXVqZ-8iH3JiymzHaRqEPzKWRVF9opAE28G3WacmpLhM.02jb4pYoP-xKe2eYZtdQY0OjkF5ASV2TxzaRdqVOMqQ&dib_tag=se&keywords=redmi&qid=1724649287&refinements=p_n_feature_thirty_browse-bin%3A44897287031%2Cp_123%3A339703&rnid=91049095031&s=electronics&sprefix=redmi%2Caps%2C317&sr=1-13&th=1'
@@ -37,6 +37,7 @@ export const Redmi = () => {
    
    return (
     <>
+   
           
           <br />
           <Grid
@@ -44,6 +45,7 @@ export const Redmi = () => {
       direction="row"
       justifyContent="space-between"
       alignItems="center"
+      style={{display:'flex',alignItems:'center'}}
     >
         {/* image---------------------------------------------------------------------------------------------------1 */}
                                 <Card sx={{ maxWidth: 345,backgroundColor:'orange',borderRadius:'30px' }}>
