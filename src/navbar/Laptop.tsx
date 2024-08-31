@@ -23,7 +23,7 @@ import { url } from "inspector";
 import { Link } from "react-router-dom";
 
 export const Laptop = () => {
-    const url='https://web.whatsapp.com/'
+    const url='https://api.whatsapp.com/send?text=Check%20out%20this%20amazing%20laptop%20here:%20https://www.amazon.in/Lenovo-IdeaPad-i7-13620H-38-1cm-83EM008GIN/dp/B0D6NCVQZQ'
     const url1='https://www.amazon.in/Lenovo-IdeaPad-i7-13620H-38-1cm-83EM008GIN/dp/B0D6NCVQZQ/ref=sr_1_13?crid=2W2XKVLDQ6CIB&dib=eyJ2IjoiMSJ9.yBLtX5CW_7yJp0ypl9Iztx-5MHiq8_ssLZeAwFgl4HrAoGOSUZqr1RxARmjavlQUf_F5vbiMUCMcJ37H9mpWeL22Cnax4JhjTtDFmQhhDKyDx9Yd22PANhaLlyGHlY0SYKYRa1Aa6FpBAVz-d8FSaXDjC09YK34kTta1vpcbD_hhXiKpb-lHQfYwnsFi9IrsvK5KLr6hkFAcDgbbdDWaFazhk4zogT_vdoZnIakQyBE.zu7kKwgrOp1uvkkLHonPHqsIDD2hBKyKab7G82bH_S0&dib_tag=se&keywords=laptop&qid=1724606087&sprefix=lap%2Caps%2C254&sr=8-13&th=1'
     const url2='https://www.amazon.in/Lenovo-IdeaPad-i7-13620H-38-1cm-83EM008GIN/dp/B0D6NCVQZQ/ref=sr_1_13?crid=2W2XKVLDQ6CIB&dib=eyJ2IjoiMSJ9.yBLtX5CW_7yJp0ypl9Iztx-5MHiq8_ssLZeAwFgl4HrAoGOSUZqr1RxARmjavlQUf_F5vbiMUCMcJ37H9mpWeL22Cnax4JhjTtDFmQhhDKyDx9Yd22PANhaLlyGHlY0SYKYRa1Aa6FpBAVz-d8FSaXDjC09YK34kTta1vpcbD_hhXiKpb-lHQfYwnsFi9IrsvK5KLr6hkFAcDgbbdDWaFazhk4zogT_vdoZnIakQyBE.zu7kKwgrOp1uvkkLHonPHqsIDD2hBKyKab7G82bH_S0&dib_tag=se&keywords=laptop&qid=1724606087&sprefix=lap%2Caps%2C254&sr=8-13'
     const url3='https://www.amazon.in/HP-Pavilion-x360-multitouch-Enabled-14-ek1020TU/dp/B0CBBRTSCZ/ref=asc_df_B0CBBRTSCZ/?tag=googleshopdes-21&linkCode=df0&hvadid=666281859354&hvpos=&hvnetw=g&hvrand=6940220848635151319&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9148183&hvtargid=pla-2206519415663&psc=1&mcid=0e347da2a6cf33bfab0ead7b0f725f40'
