@@ -21,3 +21,7 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#AFFCAF", en
 .body{
     background-color:rgb(48, 229, 91);
 }
+.card{
+    display: flex;
+    align-items: center;
+}

@@ -17,6 +17,7 @@ import img14 from "../static/14.jpg"
 import img15 from "../static/15.webp"
 import img16 from "../static/16.jpg"
 import img17 from "../static/17.jpg"
+import "./style.css"
 
 import { url } from "inspector";
 import { Link } from "react-router-dom";
