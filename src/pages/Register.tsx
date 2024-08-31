@@ -5,8 +5,8 @@ import { Link } from "react-router-dom"
 
 export const Register=()=>{
   
-    return<div>  
-    <Paper style={{padding:'100px',margin:'500px',marginTop:'50px',backgroundColor:'transparent',borderBlockColor:'black',borderBlockStartStyle:'groove',borderBlockEndStyle:'groove',borderRadius:'50px',borderRightStyle:'groove',borderLeftStyle:'groove',borderColor:'crimson'}} className="abcd">
+    return<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>  
+    <Paper style={{padding:'100px',margin:'500px',marginTop:'400px',backgroundColor:'transparent',borderBlockColor:'black',borderBlockStartStyle:'groove',borderBlockEndStyle:'groove',borderRadius:'50px',borderRightStyle:'groove',borderLeftStyle:'groove',borderColor:'crimson'}} className="abcd">
     <center><h1 style={{color:'violet',marginTop:'-40px'}}>TECH WORLD</h1></center>
 
     <Grid
