@@ -17,7 +17,7 @@ import { Link } from "react-router-dom";
 
 export const Oneplus= () => {
     
-    const url='https://api.whatsapp.com/send?text=Check%20out%20this%20amazing%20laptop%20here:%20https://www.amazon.in/Lenovo-IdeaPad-i7-13620H-38-1cm-83EM008GIN/dp/B0D6NCVQZQ'
+    const url='https://wa.me/?text=${message}'
     const url1='https://www.oneplus.in/oneplus-12r?sku=5011105224'
     const url2='https://www.oneplus.in/oneplus-12?sku=5011105273'
     const url3='https://www.oneplus.in/oneplus-open?sku=5011103224'
