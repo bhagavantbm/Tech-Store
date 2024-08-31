@@ -42,7 +42,7 @@ export const Laptop = () => {
     const url16='https://www.amazon.in/Dell-Inspiron-3530-i7-1355U-Processor/dp/B0CJK111K3/ref=sr_1_39_sspa?crid=2W2XKVLDQ6CIB&dib=eyJ2IjoiMSJ9.6-kAgfs3OxHWbBol52HpgkPRwpgx7B13QuJXp7aWQTOAVd2VRumveeDF7EZwXDSeDqtXp9_rczn9x0K2qi230f5_phneF9JvuU7EHuYcPizBwUYW2Zc1VCaKEqX_4klb2_WkAv74dYcJJPnsjG_UOcLAl77gwlMqqI-D4-_ljKz15-CrQhiZkZEnQJ-7-oB1.tfqDcUAylHjEQqZtwPrz9jeo2LlOC8QUO1uJ8DH88ZI&dib_tag=se&keywords=laptop&qid=1724645030&sprefix=lap%2Caps%2C254&sr=8-39-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1'
     return (
     <>
-      
+      <div style={{display:'flex',alignItems:'center'}}>
       <br />
       <Grid
   container
@@ -1593,6 +1593,7 @@ export const Laptop = () => {
       </Card>
       <br />
       </Grid>
+      </div>
     </>
   );
 };
