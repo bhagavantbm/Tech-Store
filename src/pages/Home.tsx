@@ -1,5 +1,6 @@
 import { Button, Card, CardActions, CardContent, CardMedia, Grid, Typography } from "@mui/material"
 import { Carosal } from "./Carosal"
+import "./home.css"
 
 
 import img2 from "../static/2.webp"
@@ -30,6 +31,7 @@ const url8='https://www.oneplus.in/oneplus-open?sku=5011103224'
 const url9='https://www.oneplus.in/oneplus-nord-ce4-lite-5g?sku=5011110200'
 const url10='https://www.oneplus.in/oneplus-nord-4?sku=5011110280'
 export const Home=()=>{
+  
   return<>
   <center>
   <h1 style={{color:'tomato',letterSpacing:'40px',fontWeight:'bold',fontFamily:'cursive'}}>TECH-STORE</h1>

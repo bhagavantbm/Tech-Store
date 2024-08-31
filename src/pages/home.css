@@ -10,3 +10,6 @@ body{
 #outlined-basic{
     color: black;
 }
+.card{
+    display: flex;
+}
