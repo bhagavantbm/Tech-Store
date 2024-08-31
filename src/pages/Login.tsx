@@ -5,7 +5,7 @@ import { Link } from "react-router-dom"
 
 export const Login=()=>{
   
-    return<div>  
+    return<div style={{display:'flex'}}>  
       
     <Paper style={{padding:'100px',margin:'500px',marginTop:'50px',backgroundColor:'transparent',borderBlockColor:'black',borderBlockStartStyle:'groove',borderBlockEndStyle:'groove',borderRadius:'50px',borderRightStyle:'groove',borderLeftStyle:'groove',borderColor:'crimson',borderTopStyle:'groove',borderBottomStyle:'groove'}} className="abcd">
       <center><h1 style={{color:'violet'}}>TECH WORLD</h1></center>
